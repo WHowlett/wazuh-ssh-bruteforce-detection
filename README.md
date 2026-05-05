@@ -187,9 +187,8 @@ The layered approach enhances security monitoring by allowing defenders to detec
 
 View this project in my full portfolio:
 
-👉 https://your-portfolio-link-here
+👉 [https://your-portfolio-link-here](https://www.ihowlett.com/projects/brute-force-detection)
 
-*(Link will be updated once added to SecurePath portfolio)*
 
 ---
 
